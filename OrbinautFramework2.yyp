@@ -1,4 +1,6 @@
-{
+{# Windows
+install_prefab_win.bat
+
   "$GMProject":"v1",
   "%Name":"OrbinautFramework2",
   "AudioGroups":[
